@@ -98,6 +98,7 @@ public class EventHandlerTest {
         }
     }
 
+
     @Test
     public void errorPassthrough() throws InvocationTargetException, NoSuchMethodException {
         Method method = getErrorThrowingMethod();
