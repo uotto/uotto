@@ -1,0 +1,7 @@
+.idea
+*.iml
+target
+
+#tmp files & logs from tests
+.tmp/
+derby.log
