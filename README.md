@@ -1,5 +1,6 @@
-__uOtto__  - plain Java version of [Otto Event Bus](https://github.com/square/otto) with no Android (nor any other) dependencies.
+__uOtto__  - plain Java version of [Otto Event Bus](https://github.com/square/otto)
 =====
+_with no Android (nor any other) dependencies_
 
 
 [![Build Status](https://travis-ci.org/uotto/uotto.svg?branch=master)]	(https://travis-ci.org/uotto/uotto)
