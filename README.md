@@ -9,28 +9,19 @@ _with no Android (nor any other) dependencies_
 Maven
 -----
 
-```xml
-<dependency>
-    <groupId>com.github.uotto</groupId>
-    <artifactId>uotto</artifactId>
-    <version>1.0.0</version>
-</dependency>
-```
+    <dependency>
+        <groupId>com.github.uotto</groupId>
+        <artifactId>uotto</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+
+
+Related projects
+------
+* [mjdbc](https://github.com/mjdbc/mjdbc) - small and efficient JDBC wrapper
+* [cs4j](https://github.com/cs4j/cs4j) - minimal Cron style task scheduler for Java compatible with Spring API
 
 License
 -------
+    Apache License, Version 2.0
 
-    Copyright 2012 Square, Inc.
-    Copyright 2010 Google, Inc.
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
