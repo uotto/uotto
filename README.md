@@ -1,4 +1,4 @@
-__uOtto__  - plain Java version of [Otto Event Bus](https://github.com/square/otto)
+__μOtto__  - plain Java version of [Otto Event Bus](https://github.com/square/otto)
 =====
 _with no Android (nor any other) dependencies_
 
@@ -23,5 +23,5 @@ Related projects
 
 License
 -------
-    Apache License, Version 2.0
+    Apache License 2.0
 
